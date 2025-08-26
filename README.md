@@ -1,2 +1,18 @@
-Creating a calculator using HTML, CSS, and JavaScript is a fun and practical project for web development beginners. The first step is to design the structure using HTML, which includes defining the layout of the calculator, such as the display area and buttons for digits and operations. Next, CSS is used to style the calculator, making it visually appealing and responsive, ensuring it looks great on various screen sizes. The layout can be organized using grids or flexbox for better alignment. JavaScript is the heart of the project, as it adds functionality by handling user input, performing arithmetic operations, and displaying the results. It uses event listeners to detect button clicks and manipulate the display screen. With JavaScript, you can also implement advanced features, such as clearing the display, calculating percentages, and even handling decimal numbers.
+# Advanced Calculator
+
+An advanced calculator web app built using HTML, CSS, and JavaScript.  
+It supports basic arithmetic operations and extra features like percentage, square, and square root.  
+Clean UI and responsive design make it easy to use and a perfect beginner-friendly project.
+
+## Features
+- Basic operations: Add, Subtract, Multiply, Divide
+- Advanced functions: Percentage
+- Responsive and modern UI
+- Clear and Backspace options
+- Real-time results with JavaScript
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 Live at- https://divya5797.github.io/Calculator/
