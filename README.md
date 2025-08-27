@@ -1,7 +1,7 @@
 # Advanced Calculator
 
 An advanced calculator web app built using HTML, CSS, and JavaScript.  
-It supports basic arithmetic operations and extra features like percentage, square, and square root.  
+It supports basic arithmetic operations and extra features like percentage etc.  
 Clean UI and responsive design make it easy to use and a perfect beginner-friendly project.
 
 ## Features
@@ -15,4 +15,6 @@ Clean UI and responsive design make it easy to use and a perfect beginner-friend
 - HTML
 - CSS
 - JavaScript
+
+  
 Live at- https://divya5797.github.io/Calculator/
